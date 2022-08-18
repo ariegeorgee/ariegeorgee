@@ -9,31 +9,31 @@ Always learn and grow, Always following technological developments.
 
 
 ## 🛠 Skills
-PHP, 
-Go lang, 
-RabbitMQ,
-KrakenD,
-Grpc,
-Temporal (Workflow)
-Microservices Architecture
-Docker
-CI/CD (Jenkins)
-Laravel / Lumen
-Beego / Echo
-Redis
-MySQL
-MariaDB
-PostgreSQL
-Git (git flow)
-Ubuntu / CentOS
+PHP,    
+Go lang,     
+RabbitMQ,   
+KrakenD,    
+Grpc,   
+Temporal (Workflow),    
+Microservices Architecture,     
+Docker,     
+CI/CD (Jenkins),    
+Laravel / Lumen,    
+Beego / Echo,   
+Redis,  
+MySQL,  
+MariaDB,    
+PostgreSQL,  
+Git (git flow),  
+Ubuntu / CentOS,    
 Html
 
 ## 🛠 Soft Skills
-The ability to analyze complex technical information
-Can analyze, design and implement database structures
-Detail oriented
-Excellent problem solver
-Team Management (Build Strong & Powerfull Team)
+The ability to analyze complex technical information    
+Can analyze, design and implement database structures   
+Detail oriented     
+Excellent problem solver    
+Team Management (Build Strong & Powerfull Team) 
 
 
 
