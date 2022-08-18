@@ -5,33 +5,45 @@ Always learn and grow, Always following technological developments.
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/ariegeorgee/)
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+PHP, 
+Go lang, 
+RabbitMQ,
+KrakenD,
+Grpc,
+Temporal (Workflow)
+Microservices Architecture
+Docker
+CI/CD (Jenkins)
+Laravel / Lumen
+Beego / Echo
+Redis
+MySQL
+MariaDB
+PostgreSQL
+Git (git flow)
+Ubuntu / CentOS
+Html
+
+## 🛠 Soft Skills
+The ability to analyze complex technical information
+Can analyze, design and implement database structures
+Detail oriented
+Excellent problem solver
+Team Management (Build Strong & Powerfull Team)
 
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
 
-🧠 I'm currently learning new stack / technology
+## Profile
+👩‍💻 I'm currently working on Qoin Digital Indonesia as Lead Backend Engineer (go)
 
-👯‍♀️ I'm looking to collaborate on...
-
-📫 How to reach me...
-
-⚡️ Fun fact...
-
+🧠 I'm currently learning new stack / technology (Java, Spring Boot, NodeJS, AdonisJS)
 
 ## FAQ
 
-#### Question 1
+#### 
 
-Answer 1
-
-#### Question 2
-
-Answer 2
 
