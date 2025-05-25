@@ -8,8 +8,16 @@ Always learn and grow, Always following technological developments.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariegeorgee/)
 
 ## 🛠 Skills
+MANAGERIAL : 
+Manage & Build Team
+Develop Product
+Decision Maker
+
+TECHNICAL : 
 PHP,    
-Go lang,     
+Go lang,
+TypeScript,
+NodeJS,
 RabbitMQ,   
 KrakenD,    
 Grpc,   
@@ -37,9 +45,8 @@ Team Management (Build Strong & Powerfull Team)
 
 
 ## Profile
-👩‍💻 I'm currently working on Qoin Digital Indonesia as Lead Backend Engineer (go)
-
-🧠 I'm currently learning new stack / technology (Java, Spring Boot, NodeJS, AdonisJS)
+👩‍💻 I'm currently working on Qoin Digital Indonesia as Product Manager / Product Owner and Decision Maker For Tech Engineer.
+🧠 I'm currently learning everything
 
 ## FAQ
 
