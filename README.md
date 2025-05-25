@@ -9,12 +9,12 @@ Always learn and grow, Always following technological developments.
 
 ## 🛠 Skills
 MANAGERIAL : 
-Manage & Build Team
-Develop Product
-Decision Maker
+Manage & Build Team, 
+Develop Product, 
+Decision Maker, 
 
 TECHNICAL : 
-PHP,    
+PHP,     
 Go lang,
 TypeScript,
 NodeJS,
